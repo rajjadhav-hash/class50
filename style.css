@@ -1,0 +1,24 @@
+
+        h1{
+            color: brown;
+        
+        }
+        .grid{
+            display:flex; 
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+        }
+        .header{
+            display:flex;
+            justify-content :space-between;
+        }
+        .item{
+            margin: 10px;
+        }
+        .footer{
+            display: flex;
+            justify-content: flex-end;
+           
+        }
+        
+    
